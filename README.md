@@ -23,7 +23,7 @@ Compile the Code
   -g++ Billing_System.cpp -o Billing_System.exe
 
 Run the Program
-  -./Billing_System.exe
+  -Billing_System.exe
 
 Supermarket-Billing/
 │── Billing_System.cpp  # Main C++ source file
